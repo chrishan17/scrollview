@@ -1,0 +1,12 @@
+html {
+  background: black;
+}
+
+.backfaceVisibility {
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+
+.reflect {
+  -webkit-box-reflect: below 10px -webkit-linear-gradient(transparent,transparent 50%,rgba(255,255,255,.3));
+}
